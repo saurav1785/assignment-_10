@@ -1,0 +1,4 @@
+Hello
+File handling
+This is assignment 10
+I love python
